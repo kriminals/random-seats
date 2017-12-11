@@ -1,6 +1,6 @@
-#Welcome to Random Desk Sitting
+## Welcome to Random Desk Sitting
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 To get started, type the number of your class students in the box. Now you can place your students randomly, based on their catalogue number.
 
-Find a working [demo] (http://random-seats.azurewebsites.net/).
+Find [here](http://random-seats.azurewebsites.net/) a working demo deployed on Azure.
