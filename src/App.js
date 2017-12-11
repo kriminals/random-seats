@@ -14,7 +14,7 @@ class App extends Component {
         <p className="App-intro">
           To get started, type the number of your class students in the box.
           Now you can place your students randomly, 
-          based on their calatogue number.
+          based on their catalogue number.
         </p>
         <NameForm />
       </div>
